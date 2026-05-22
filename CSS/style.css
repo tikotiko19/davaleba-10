@@ -104,6 +104,7 @@
     .container {
         flex-direction: column;
         row-gap: 68px;
+        
     }
     .left-block {
         width: 100%;
